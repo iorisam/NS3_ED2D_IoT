@@ -1,0 +1,1 @@
+wns3: 2 runs, 10 seeds - wns3_2017_discovery, 10 UEs in simulation, time=15, recovery=false

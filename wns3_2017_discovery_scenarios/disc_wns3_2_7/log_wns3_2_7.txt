@@ -1,0 +1,20 @@
+UEs in simluation = 10
+Simulation time = 15
+-------------------------------
+
+Waf: Entering directory `/home/wanacry/Bureau/psc-ns3-d2d-ns-3.22/build'
+Waf: Leaving directory `/home/wanacry/Bureau/psc-ns3-d2d-ns-3.22/build'
+'build' finished successfully (0.570s)
+PGW id = 0
+eNb ids = [1,2,3]
+UE 0 id = 4 / imsi = 1 / position = [-76.9588,65.3619,1.5]
+UE 1 id = 5 / imsi = 2 / position = [95.5275,-2.92278,1.5]
+UE 2 id = 6 / imsi = 3 / position = [12.0888,-85.0479,1.5]
+UE 3 id = 7 / imsi = 4 / position = [3.74154,21.832,1.5]
+UE 4 id = 8 / imsi = 5 / position = [79.33,11.5164,1.5]
+UE 5 id = 9 / imsi = 6 / position = [74.0439,6.21248,1.5]
+UE 6 id = 10 / imsi = 7 / position = [-32.3177,71.8515,1.5]
+UE 7 id = 11 / imsi = 8 / position = [53.9219,12.4698,1.5]
+UE 8 id = 12 / imsi = 9 / position = [12.6127,-38.9981,1.5]
+UE 9 id = 13 / imsi = 10 / position = [-54.8509,-82.4475,1.5]
+Remote Host id = 14
